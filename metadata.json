@@ -1,0 +1,5 @@
+{
+  "name": "Course Management System",
+  "description": "Developed a Course Management System to manage courses, users, and academic content efficiently. The system supports course creation, enrollment management, material uploads, notifications, and role-based access for administrators, instructors, and students.",
+  "requestFramePermissions": []
+}
